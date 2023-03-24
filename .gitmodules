@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "evidence"]
+	path = evidence
+	url = https://github.com/cran/evidence
+	shallow = true
+	registered = true
